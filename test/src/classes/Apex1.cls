@@ -1,5 +1,5 @@
 public with sharing class Apex1 {
-public static Double myValue;   //Class Member variable
+public static Double myValue1;   //Class Member variable
 public static String myString;  //Class Member variable
     
 public Apex1 () {
