@@ -3,7 +3,7 @@ public static Double myValue;   //Class Member variable
 public static String myString;  //Class Member variable
     
 public Apex1 () {
-    myValue = 50;  //initialized variable when class is called
+    myValue1 = 50;  //initialized variable when class is called
         
 }
     
